@@ -3,6 +3,7 @@
 > 1. Best 100 Reports from hackerone
 ```
 https://github.com/reddelexc/hackerone-reports
+https://github.com/Linuxinet/BugcrowdVRT-Resources
 ```
 > 2. Learn about AWS vulnerabilities by going through multiple levels of challenges.
 ```
