@@ -20,5 +20,4 @@ inurl:<COMPANY_NAME> intitle:JIRA
 inurl:<COMPANY_NAME> intitle:JIRA
 site:*.<HOSTNAME>.com filetype:jspa
 site:*.<HOSTNAME>.com ext:jspa
-
 ```
