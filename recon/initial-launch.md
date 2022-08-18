@@ -21,3 +21,17 @@ inurl:<COMPANY_NAME> intitle:JIRA
 site:*.<HOSTNAME>.com filetype:jspa
 site:*.<HOSTNAME>.com ext:jspa
 ```
+> Check AWS S3 instances for read/write/delete access
+```
+https://github.com/0xmoot/s3sec
+```
+> Port Scanner
+```
+https://github.com/s0md3v/Smap
+```
+> Useful tools
+```
+https://github.com/edoardottt/lit-bb-hack-tools/tree/main/eae
+https://github.com/edoardottt/lit-bb-hack-tools/tree/main/eefjsf
+https://github.com/edoardottt/lit-bb-hack-tools/tree/main/rapwp
+```
