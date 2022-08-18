@@ -14,3 +14,7 @@ https://github.com/edoardottt/lit-bb-hack-tools/tree/main/doomxss
 https://github.com/thenurhabib/collector
 https://github.com/Qianlitp/crawlergo
 ```
+> 4. Testing blind xss via headers using xsshunter
+```
+https://github.com/muhamadkarkuki/xssHeaders
+```
