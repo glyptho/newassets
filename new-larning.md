@@ -9,3 +9,7 @@ https://github.com/Linuxinet/BugcrowdVRT-Resources
 ```
 http://flaws.cloud/
 ```
+> 3. SQL Injection Learning
+```
+https://github.com/arpeetrathii/50-Days-Of-SQLi
+```
