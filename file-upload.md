@@ -10,3 +10,7 @@ https://github.com/dlegs/php-jpeg-injector
 https://github.com/vesperlol/Extension-Spoofer
 https://github.com/ivan-sincek/php-reverse-shell
 ```
+> 3. Javascript Payload shell
+``
+https://github.com/s0md3v/JShell
+```
