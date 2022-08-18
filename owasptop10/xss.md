@@ -9,3 +9,8 @@ https://github.com/theinfosecguy/QuickXSS
 ```
 https://github.com/edoardottt/lit-bb-hack-tools/tree/main/doomxss
 ```
+> 3.Crawl entire website for xss parameter
+```
+https://github.com/thenurhabib/collector
+https://github.com/Qianlitp/crawlergo
+```
