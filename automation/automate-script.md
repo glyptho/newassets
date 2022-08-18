@@ -12,6 +12,10 @@ https://github.com/Chudry/Xerror
 https://github.com/R0X4R/Garud
 https://github.com/chaitin/xray
 ```
+> Find Favicon hash for alltarget from a file list
+```
+https://github.com/devanshbatham/FavFreak
+```
 
 > 1. Apache Vulnerability Scanner
 ```
@@ -44,4 +48,9 @@ https://github.com/fullhunt/spring4shell-scan
 > Image EXIF-Metadata find
 ```
 https://github.com/aydinnyunus/exifLooter
+```
+> Regularly collection of domain list from bug bounty sites
+```
+https://github.com/arkadiyt/bounty-targets-data/blob/master/data/domains.txt
+https://github.com/KingOfBugbounty/KingOfBugBountyTips/blob/master/DoD%20Domains.txt
 ```
