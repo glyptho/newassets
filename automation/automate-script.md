@@ -22,6 +22,10 @@ https://github.com/devanshbatham/FavFreak
 https://github.com/imhunterand/ApachSAL
 https://github.com/p0dalirius/ApacheTomcatScanner
 ```
+> PoC for Nginx 0.6.18 - 1.20.0 Memory Overwrite Vulnerability CVE-2021-23017
+```
+https://github.com/glyptho/newassets/blob/main/automation/poc.py
+```
 
 > 2. Local File Include Check:
 ```
