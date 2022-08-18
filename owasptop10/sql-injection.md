@@ -9,3 +9,8 @@ https://github.com/eslam3kl/SQLiDetector
 https://github.com/JohnTroony/Blisqy
 https://github.com/zeronine9/Blind_SPOT
 ```
+> 3. NOSQL Injection
+```
+https://github.com/Charlie-belmer/nosqli
+https://github.com/codingo/NoSQLMap
+```
