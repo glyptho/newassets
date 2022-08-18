@@ -2,3 +2,11 @@
 
 > 1. file upload to rce:
 https://sagarsajeev.medium.com/file-upload-bypass-to-rce-76991b47ad8f
+
+> 2. File Upload to rce and other vulnerability
+```
+https://github.com/hac01/Magic_shell_image
+https://github.com/dlegs/php-jpeg-injector
+https://github.com/vesperlol/Extension-Spoofer
+https://github.com/ivan-sincek/php-reverse-shell
+```
