@@ -75,3 +75,7 @@ https://github.com/KingOfBugbounty/KingOfBugBountyTips/blob/master/DoD%20Domains
 ```
 https://github.com/dwisiswant0/galer#single-url
 ```
+>CMS-Detection and Exploit
+```
+https://github.com/Tuhinshubhra/CMSeeK
+```
