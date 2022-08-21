@@ -12,3 +12,7 @@ https://awesomeopensource.com/
 ```
 https://buckets.grayhatwarfare.com
 ```
+>Email-Validator (Which can be used to generate same email for ATO)
+```
+http://sphinx.mythic-beasts.com/~pdw/cgi-bin/emailvalidate
+```
