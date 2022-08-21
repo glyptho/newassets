@@ -4,7 +4,6 @@ This repo include various sources to find the subdomains of a given domain
 ```
 https://github.com/screetsec/Sudomy
 https://github.com/iamthefrogy/frogy
-https://github.com/iamthefrogy/frogy
 https://github.com/laramies/theHarvester
 https://github.com/guelfoweb/knock
 ```
