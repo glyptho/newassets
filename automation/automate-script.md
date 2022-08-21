@@ -11,6 +11,15 @@ https://github.com/yogeshojha/rengine
 https://github.com/Chudry/Xerror
 https://github.com/R0X4R/Garud
 https://github.com/chaitin/xray
+https://github.com/cckuailong/pocsploit
+https://github.com/knownsec/pocsuite3
+https://www.spiderfoot.net/
+https://github.com/d3ckx1/Fvuln
+https://gobies.org/
+https://sniffcon.com
+https://github.com/tr0uble-mAker/POC-bomber
+https://github.com/wrenchonline/glint
+https://github.com/yogeshojha/rengine
 ```
 > Find Favicon hash for alltarget from a file list
 ```
@@ -61,4 +70,8 @@ https://github.com/aydinnyunus/exifLooter
 ```
 https://github.com/arkadiyt/bounty-targets-data/blob/master/data/domains.txt
 https://github.com/KingOfBugbounty/KingOfBugBountyTips/blob/master/DoD%20Domains.txt
+```
+> Crawl Entire Website for find all endpoint
+```
+https://github.com/dwisiswant0/galer#single-url
 ```
