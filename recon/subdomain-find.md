@@ -6,6 +6,8 @@ https://github.com/screetsec/Sudomy
 https://github.com/iamthefrogy/frogy
 https://github.com/laramies/theHarvester
 https://github.com/guelfoweb/knock
+https://subdomainfinder.c99.nl
+https://phpinfo.me/domain
 ```
 
 
@@ -13,7 +15,10 @@ https://github.com/guelfoweb/knock
 ```
 https://github.com/yghonem14/cngo
 ```
-
+> Find All the websites name registered with a company ( like using this tool you can find all the companies owned by google)
+```
+https://github.com/harleo/knockknock
+````
 
 > Subdomain Takeover check
 ```
