@@ -8,6 +8,9 @@ https://github.com/laramies/theHarvester
 https://github.com/guelfoweb/knock
 https://subdomainfinder.c99.nl
 https://phpinfo.me/domain
+https://github.com/m8sec/subscraper
+https://github.com/0xlittleboy/subdomz
+https://dnsdumpster.com/
 ```
 
 
