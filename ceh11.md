@@ -11,4 +11,5 @@ https://github.com/0xParth/CEH-Practical-Guide
 https://ghoshshubham.medium.com/how-i-got-ceh-certified-ethical-hacker-master-certified-resources-included-52c6a8a3733e
 https://gustavshen.medium.com/my-experience-on-ceh-v11-practical-exam-cbf50ec2c260
 https://debprasadbanerjee502.medium.com/list/ceh-practical-28e947311346
+https://medium.com/techiepedia/certified-ethical-hacker-practical-exam-guide-dce1f4f216c9
 ```
