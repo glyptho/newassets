@@ -9,4 +9,6 @@ https://medium.com/@sahilbasia8/ceh-practical-review-guide-how-to-prepare-and-ac
 ```
 https://github.com/0xParth/CEH-Practical-Guide
 https://ghoshshubham.medium.com/how-i-got-ceh-certified-ethical-hacker-master-certified-resources-included-52c6a8a3733e
+https://gustavshen.medium.com/my-experience-on-ceh-v11-practical-exam-cbf50ec2c260
+https://debprasadbanerjee502.medium.com/list/ceh-practical-28e947311346
 ```
