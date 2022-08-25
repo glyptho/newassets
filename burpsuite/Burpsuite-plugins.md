@@ -25,4 +25,5 @@ https://github.com/Static-Flow/BurpSuiteAutoCompletion
 https://github.com/d3k4z/burp-copy-as-ffuf
 https://github.com/allyomalley/BurpParamFlagger
 https://github.com/ethicalhackingplayground/ssrf-king
+https://github.com/funnyndk/log4j2burpscanner
 ```
