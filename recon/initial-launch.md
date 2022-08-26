@@ -35,3 +35,7 @@ https://github.com/edoardottt/lit-bb-hack-tools/tree/main/eae
 https://github.com/edoardottt/lit-bb-hack-tools/tree/main/eefjsf
 https://github.com/edoardottt/lit-bb-hack-tools/tree/main/rapwp
 ```
+>An unconventional Windows reverse shell, currently undetected by Microsoft Defender and various other AV solutions, solely based on http(s) traffic.
+```
+https://github.com/t3l3machus/hoaxshell
+```
