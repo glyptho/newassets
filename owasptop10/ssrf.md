@@ -8,3 +8,7 @@ https://github.com/Th0h0/autossrf
 https://github.com/assetnote/blind-ssrf-chains
 https://github.com/knassar702/lorsrf
 ```
+>An Out-of-Band XXE server for retrieving file contents over FTP.
+```
+https://github.com/lc/230-OOB
+```
