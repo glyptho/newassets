@@ -6,3 +6,7 @@ https://github.com/anshumanpattnaik/http-request-smuggling
 https://github.com/hahwul/ws-smuggler
 https://github.com/defparam/smuggler
 ```
+>Turbo Intruder TE.CL/CL.TE Attack Scripts
+```
+https://github.com/defparam/tiscripts
+```
