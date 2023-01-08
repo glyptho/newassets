@@ -13,4 +13,5 @@ https://github.com/ivan-sincek/php-reverse-shell
 > 3. Javascript Payload shell
 ``
 https://github.com/s0md3v/JShell
+https://github.com/BeichenDream/Godzilla
 ```
